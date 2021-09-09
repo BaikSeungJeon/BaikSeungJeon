@@ -26,6 +26,6 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>
 
 ## Contact me
-<a href="https://baby-coder.tistory.com/ target=blank"><img src="https://img.shields.io/badge/Blog-4285F4?style=flat-square&logo=google&logoColor=white&link=https://baby-coder.tistory.com/"/></a>
+<a href="https://baby-coder.tistory.com/" target=blank><img src="https://img.shields.io/badge/Blog-4285F4?style=flat-square&logo=google&logoColor=white&link=https://baby-coder.tistory.com/"/></a>
 <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link="/></a>
 <a href=""><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=naver&logoColor=white&link="/></a>
