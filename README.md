@@ -28,4 +28,4 @@
 ## Contact me
 <a href="https://baby-coder.tistory.com/"><img src="https://img.shields.io/badge/Blog-4285F4?style=flat-square&logo=google&logoColor=white&link=https://baby-coder.tistory.com/"/></a>
 <a href="https://mail.naver.com/write"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=naver&logoColor=white&link=https://mail.naver.com/write"/></a>
-<a href="https://www.instagram.com/tmdwjs/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/tmdwjs//></a>
+<a href="https://www.instagram.com/tmdwjs/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/tmdwjs/></a>
