@@ -12,7 +12,7 @@
 
 ## Studying
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/NodeJs-339933?style=flat-square&logo=nodejs&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/NodeJs-339933?style=flat-square&logo=node.js&logoColor=white"/></a>
 
 ## Design
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/></a>
