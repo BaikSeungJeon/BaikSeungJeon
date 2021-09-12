@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=dfd4e4&height=300&section=header&text=SeungjeonBaik&fontSize=70&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=slice&color=dfd4e4&height=300&section=header&text=seungjeonbaik&fontSize=70&fontColor=8d38c9)
 
 <h2 align=center> 👌 Stack </h2>
 <div align=center>
