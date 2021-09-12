@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=SeungjeonBaik&fontSize=70&fontColor=000000)
 
 
-<h2 align=center> 😍 Stack 😍 </h2>
+<h2 align=center> 👌 Stack </h2>
 <div align=center>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
@@ -12,14 +12,14 @@
 </div>
 <br>
 
-<h2 align=center> 🤓 Studying 🤓 </h2>
+<h2 align=center> 👍 Studying </h2>
 <div align=center>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/NodeJs-339933?style=flat-square&logo=node.js&logoColor=white"/></a>
 </div>
 <br>
 
-<h2 align=center> 😎 Design 😎 </h2>
+<h2 align=center> ✌️ Design </h2>
 <div align=center>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/></a>
@@ -27,7 +27,7 @@
 </div>
 <br>
 
-<h2 align=center> 😉 Communication 😉 </h2>
+<h2 align=center> 🤞 Communication </h2>
 <div align=center>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a>
@@ -36,7 +36,7 @@
 </div>
 <br>
 
-<h2 align=center> 👋 Contact me 👋 </h2>
+<h2 align=center> 🤙 Contact me </h2>
 <div align=center>
   <a href="https://baby-coder.tistory.com/">
     <img src="https://img.shields.io/badge/Blog-4285F4?style=flat-square&logo=google&logoColor=white&link=https://baby-coder.tistory.com/"/>
