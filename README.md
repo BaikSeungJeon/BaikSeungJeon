@@ -9,8 +9,11 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/NodeJs-339933?style=flat-square&logo=node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/></a>
+<br>
+<img src="https://img.shields.io/badge/Ajax-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/NodeJs-339933?style=flat-square&logo=node.js&logoColor=white"/></a>
+
 
 <h3> Design </h3>
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/></a>
