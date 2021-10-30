@@ -1,6 +1,6 @@
 <div align=center>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Seungjeon%20Baik&fontSize=45&fontColor=ffffff&desc=Junior%20Developer&descSize=25&descAlignY=80&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Seungjeon%20Baik&fontSize=45&fontColor=ffffff&desc=Junior%20FrontEnd%20Developer&descSize=25&descAlignY=80&animation=twinkling"/>
 
 
 <h3> Stack </h3>
