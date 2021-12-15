@@ -40,9 +40,9 @@
   <a href="https://www.instagram.com/tmdwjs">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/tmdwjs/">
   </a>
-  <a href="https://www.notion.so/6a9bca09009b467385862855c4ee44f4">
+  <!-- <a href="https://www.notion.so/6a9bca09009b467385862855c4ee44f4">
     <img src="https://img.shields.io/badge/PortFolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-  </a>
+  </a> -->
   <br><br>
 
   <a href="https://hits.seeyoufarm.com">
