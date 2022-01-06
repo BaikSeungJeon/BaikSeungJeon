@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white"/></a>
-  <!-- <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white"/></a> 트렐로 잘 몰라서 지움 -->
+  <!-- <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white"/></a> --> <!-- 트렐로 잘 몰라서 지움 -->
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>
 
@@ -43,7 +43,7 @@
   </a>
   <!-- <a href="https://www.notion.so/6a9bca09009b467385862855c4ee44f4">
     <img src="https://img.shields.io/badge/PortFolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-  </a> 포트폴리오 내용 개인정보 때문에 지움 -->
+  </a> --> <!-- 포트폴리오 내용 개인정보 때문에 지움 -->
   <br><br>
 
   <a href="https://hits.seeyoufarm.com">
