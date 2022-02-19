@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macos&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/></a>
   
-  <h3> Me </h3> <!-- 내 정보 --> 
+  <h3> Contact </h3> <!-- 연락 --> 
   <a href="https://baby-coder.tistory.com">
     <img src="https://img.shields.io/badge/Blog-4285F4?style=flat-square&logo=google&logoColor=white&link=https://kingsdaq-coingod.tistory.com/"/>
   </a>
