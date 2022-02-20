@@ -37,7 +37,7 @@
   
   <h3> Contact </h3> <!-- 연락처 --> 
   <a href="https://baby-coder.tistory.com">
-    <img src="https://img.shields.io/badge/Blog-4285F4?style=flat-square&logo=google&logoColor=white&link=https://kingsdaq-coingod.tistory.com/"/>
+    <img src="https://img.shields.io/badge/Blog-4285F4?style=flat-square&logo=google&logoColor=white&link=https://baby-coder.tistory.com/"/>
   </a>
   <a href="https://mail.naver.com/write">
     <img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=naver&logoColor=white&link=https://mail.naver.com/write"/>
