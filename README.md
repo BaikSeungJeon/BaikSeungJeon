@@ -14,8 +14,10 @@
   
   <h3> Studying </h3> <!-- 공부 중 -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a> <!-- react --> 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a> <!-- ts -->
+  <br>
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=react&logoColor=white"/></a> <!-- rn --> 
-  <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=node.js&logoColor=white"/></a> <!-- rn --> 
+  <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=node.js&logoColor=white"/></a> <!-- nodejs -->
   
 
   <h3> Design </h3> <!-- 디자인 툴 --> 
@@ -30,12 +32,12 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a> <!-- slack --> 
 
   <h3> Use </h3> <!-- 사용 -->
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a> <!-- VSCode --> 
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/></a> <!-- 이클립스 -->
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a> <!-- vscode --> 
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/></a> <!-- eclipse -->
   <br>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/></a> <!-- 윈도우 --> 
-  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macos&logoColor=white"/></a> <!-- 맥 --> 
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/></a> <!-- 리눅스 --> 
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/></a> <!-- window --> 
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macos&logoColor=white"/></a> <!-- mac --> 
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/></a> <!-- linux --> 
   
   <h3> Contact </h3> <!-- 연락처 --> 
   <a href="https://baby-coder.tistory.com">
