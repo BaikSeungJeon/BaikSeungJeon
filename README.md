@@ -15,6 +15,7 @@
   <h3> Studying </h3> <!-- 공부 중 -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a> <!-- react --> 
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=react&logoColor=white"/></a> <!-- rn --> 
+  <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=node.js&logoColor=white"/></a> <!-- rn --> 
   
 
   <h3> Design </h3> <!-- 디자인 툴 --> 
