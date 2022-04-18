@@ -1,7 +1,7 @@
 <div align=center> <!-- 중앙 정렬 -->
 
   <!-- 대문 -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=120&section=header&text=Seungjeon%20Baik&fontSize=40&fontColor=ffffff&desc=FrontEnd%20Developer&descSize=20&descAlignY=80&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=120&section=header&text=Seungjeon%2097&fontSize=40&fontColor=ffffff&desc=FrontEnd%20Developer&descSize=20&descAlignY=80&animation=twinkling"/>
 
   <h3> Stack </h3> <!-- 스택 -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a> <!-- html5 --> 
