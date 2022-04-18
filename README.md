@@ -9,8 +9,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a> <!-- javascript --> 
   <br>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a> <!-- jquery -->
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/></a> <!-- bootstrap --> 
   <img src="https://img.shields.io/badge/Ajax-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a> <!-- ajax -->
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/></a> <!-- bootstrap --> 
   
   <h3> Studying </h3>  <!-- 공부 -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a> <!-- react -->
