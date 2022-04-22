@@ -1,13 +1,12 @@
 <div align=center> <!-- 중앙 정렬 -->
 
   <!-- 대문 -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=120&section=header&text=Seungjeon%2097&fontSize=40&fontColor=ffffff&desc=FrontEnd%20Developer&descSize=20&descAlignY=80&animation=twinkling"/>
+  <!-- <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=120&section=header&text=Seungjeon%2097&fontSize=40&fontColor=ffffff&desc=FrontEnd%20Developer&descSize=20&descAlignY=80&animation=twinkling"/> -->
 
   <h3> Stack </h3> <!-- 스택 -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a> <!-- html5 --> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a> <!-- css3 --> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a> <!-- javascript --> 
-  <br>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a> <!-- jquery -->
   <img src="https://img.shields.io/badge/Ajax-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a> <!-- ajax -->
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/></a> <!-- bootstrap --> 
@@ -16,7 +15,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a> <!-- react -->
     <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/></a> <!-- redux -->
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a> <!-- typescript -->
-  <br>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/></a> <!-- vue -->
   <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white"/></a> <!-- vuetify -->
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/></a> <!-- vue -->
@@ -31,7 +29,6 @@
   <h3> Team </h3> <!-- 협업 --> 
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a> <!-- github --> 
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white"/></a> <!-- gitlab --> 
-  <br>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> <!-- notion --> 
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a> <!-- slack -->
   <img src="https://img.shields.io/badge/Asana-273347?style=flat-square&logo=asana&logoColor=white"/></a> <!-- asana --> 
