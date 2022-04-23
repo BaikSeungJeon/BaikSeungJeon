@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/> <!-- vite -->
 
   
-  <h3> 제가 더 궁금하신가요? </h3>
+  <h3> 제가 더 궁금하시다면, </h3>
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/> <!-- notion --> 
   </a>
