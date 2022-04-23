@@ -24,10 +24,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/> <!-- react -->
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/> <!-- redux -->
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <!-- typescript -->
-  <br>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/> <!-- vue -->
-  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white"/> <!-- vuetify -->
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/> <!-- vite -->
 
   
   <h3> 제가 더 궁금하시다면, </h3>
