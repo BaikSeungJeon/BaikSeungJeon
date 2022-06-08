@@ -23,6 +23,7 @@
   <h3> 공부 중에 있어요. </h3>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/> <!-- react -->
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/> <!-- redux -->
+  <img src="https://img.shields.io/badge/Ajax-0769AD?style=flat-square&logo=jQuery&logoColor=white"/> <!-- axios -->
   <!-- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <!-- typescript -->
 
   
