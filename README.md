@@ -29,7 +29,7 @@
   
   <h3> 제가 더 궁금하시다면, </h3>
   <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/> <!-- notion --> 
+    <img src="https://img.shields.io/badge/Portfolio-61DAFB?style=flat-square&logo=react&logoColor=white"/> <!-- portfolio -->
   </a>
   <a href="https://baby-coder.tistory.com">
     <img src="https://img.shields.io/badge/Tistory-FFCD00?style=flat-square&logo=kakao&logoColor=white&link=https://baby-coder.tistory.com/"/>
