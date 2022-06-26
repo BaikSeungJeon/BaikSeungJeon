@@ -1,5 +1,5 @@
 <div>
-  <h3> I can </h3>
+  <h3> Stack </h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <!-- html5 --> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <!-- css3 --> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <!-- javascript -->
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/> <!-- window --> 
   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macos&logoColor=white"/> <!-- mac --> 
 
-  <h3> Contact me </h3>
+  <h3> Contact </h3>
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-61DAFB?style=flat-square&logo=react&logoColor=white"/> <!-- portfolio -->
   </a>
@@ -35,7 +35,9 @@
   <a href="https://mail.naver.com/write">
     <img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=naver&logoColor=white&link=https://mail.naver.com/write"/>
   </a>
-  <br>
+  
+  <br><br><br>
+  
   <a href="https://hits.seeyoufarm.com"> <!-- 방문수 -->
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBaikSeungJeon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
   </a>
