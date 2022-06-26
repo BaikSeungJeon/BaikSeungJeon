@@ -1,5 +1,5 @@
 <div>
-  <h3> 다음으로 개발합니다. </h3>
+  <h3> I can </h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <!-- html5 --> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <!-- css3 --> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <!-- javascript -->
@@ -19,15 +19,13 @@
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/> <!-- eclipse -->
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/> <!-- window --> 
   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macos&logoColor=white"/> <!-- mac --> 
-  
-  <h3> 공부 중에 있어요. </h3>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/> <!-- react -->
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/> <!-- redux -->
   <img src="https://img.shields.io/badge/Axios-0769AD?style=flat-square&logo=jQuery&logoColor=white"/> <!-- axios -->
   <!-- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <!-- typescript -->
 
   
-  <h3> 제가 더 궁금하시다면, </h3>
+  <h3> Contact me </h3>
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-61DAFB?style=flat-square&logo=react&logoColor=white"/> <!-- portfolio -->
   </a>
