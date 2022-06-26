@@ -4,15 +4,15 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <!-- css3 --> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <!-- javascript -->
   <br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/> <!-- react -->
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/> <!-- redux -->
-  <img src="https://img.shields.io/badge/Axios-0769AD?style=flat-square&logo=jQuery&logoColor=white"/> <!-- axios -->
-  <!-- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <!-- typescript -->
-  <br>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/> <!-- jquery -->
   <img src="https://img.shields.io/badge/Ajax-0769AD?style=flat-square&logo=jQuery&logoColor=white"/> <!-- ajax -->
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/> <!-- bootstrap -->
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/> <!-- photoshop -->
+  <br>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/> <!-- react -->
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/> <!-- redux -->
+  <img src="https://img.shields.io/badge/Axios-0769AD?style=flat-square&logo=jQuery&logoColor=white"/> <!-- axios -->
+  <!-- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <!-- typescript -->
   <br>
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/> <!-- github --> 
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white"/> <!-- gitlab --> 
