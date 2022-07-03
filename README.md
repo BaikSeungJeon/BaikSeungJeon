@@ -1,4 +1,9 @@
 <div>
+  <h3> Portfolio </h3>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-61DAFB?style=flat-square&logo=react&logoColor=white"/> <!-- portfolio -->
+  </a>
+  
   <h3> Stack </h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <!-- html5 --> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <!-- css3 --> 
@@ -26,11 +31,11 @@
   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macos&logoColor=white"/> <!-- mac --> 
 
   <h3> Contact </h3>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-61DAFB?style=flat-square&logo=react&logoColor=white"/> <!-- portfolio -->
-  </a>
   <a href="https://baby-coder.tistory.com">
     <img src="https://img.shields.io/badge/Tistory-FFCD00?style=flat-square&logo=kakao&logoColor=white&link=https://baby-coder.tistory.com/"/>
+  </a>
+  <a href="https://baby-coder.tistory.com">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://baby-coder.tistory.com/"/>
   </a>
   <a href="https://mail.naver.com/write">
     <img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=naver&logoColor=white&link=https://mail.naver.com/write"/>
